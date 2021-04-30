@@ -37,11 +37,11 @@ Paragraphs that start with the word “**META**” are just explaining one way t
 
 **Floor 1**
 
-![](floor1.png)
+![](img/floor1.png)
 
 **Floor boss**
 
-![](floor_boss.png)
+![](img/floor_boss.png)
 
 ## Buffs and debuffs
 
@@ -52,7 +52,7 @@ Paragraphs that start with the word “**META**” are just explaining one way t
 ### Floor 1~5
 There will be 3 paths that lead to the Bjorn. Left, middle, and right. After defeating the adds at Floor 5, a portal will spawn and it will teleport players to the platform (marked with X in the picture below) where Bjorn is.
 
-![](minimap.png)
+![](img/minimap.png)
 
 Kill all adds on each floor to unlock the access to the next floor.
 
